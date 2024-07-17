@@ -1,4 +1,4 @@
-<h2 align="center">👋! I am Ruihang Zhang 	🎱</h2>
+<h2 align="center">Hello👋! I am Ruihang Zhang 	🎱</h2>
 
 ###
 
