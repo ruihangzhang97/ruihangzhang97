@@ -2,12 +2,12 @@
 
 ###
 
-<h6 align="left">I am an third year Engineering Science student at UofToronto, specializing in Machine Intelligence. With over 3 years of experience in Machine Learning & Robotics, I have been extremely fascinated by deep learning, robot learning and backend software development. Currently, I am a Machine Learning Researcher at Huawei Noah's Ark Lab and UofT CS DGP Lab.</h6>
+<h4 align="left">I am an third year Engineering Science student at UofToronto, specializing in Machine Intelligence. With over 3 years of experience in Machine Learning & Robotics, I have been extremely fascinated by deep learning, robot learning and backend software development. Currently, I am a Machine Learning Researcher at Huawei Noah's Ark Lab and UofT CS DGP Lab.</h4>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/6876788/96633009-d1818000-1318-11eb-9f1d-7f914f4ccb16.gif"  />
 </div>
 
 ###
@@ -18,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
